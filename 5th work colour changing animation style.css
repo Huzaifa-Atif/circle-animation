@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    transition-duration: 1s;
+}
+#container-js{
+    background-color: orange;
+    height: 100vh;
+    display: flex;
+}
+h1{
+    width: 300px;
+    height: 300px;
+    border-radius: 200px;
+    background-color: wheat;
+    border: 5px solid saddlebrown;
+    font-size: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+    box-shadow: 2px 2px 32px -2px black;
+}
